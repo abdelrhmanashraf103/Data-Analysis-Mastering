@@ -147,6 +147,18 @@ Data-Analysis-Mastering/
 - **Skills**: Employee retention analysis, performance metrics
 - **Features**: Attrition analysis, department performance
 
+📊 Related Repositories
+<div align="center">
+Explore My Other Data Analysis Projects
+
+https://img.shields.io/badge/E--commerce_Dashboard-Power_BI-blueviolet?style=for-the-badge&logo=powerbi
+https://img.shields.io/badge/Amazon_Web_Scraper-Python-ff9900?style=for-the-badge&logo=amazon
+https://img.shields.io/badge/HR_Analytics-Tableau-1e3765?style=for-the-badge&logo=tableau
+https://img.shields.io/badge/Sales_Dashboard-Power_BI-yellowgreen?style=for-the-badge&logo=microsoft
+https://img.shields.io/badge/Data_Warehouse-SQL-4479A1?style=for-the-badge&logo=postgresql
+
+</div>
+
 ## 🎓 Learning Resources
 
 ### Free Resources Included:
