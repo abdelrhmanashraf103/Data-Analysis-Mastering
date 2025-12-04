@@ -149,13 +149,14 @@ Data-Analysis-Mastering/
 
 📊 Related Repositories
 <div align="center">
-Explore My Other Data Analysis Projects
+### Explore Any Data Analysis Course
 
-https://img.shields.io/badge/E--commerce_Dashboard-Power_BI-blueviolet?style=for-the-badge&logo=powerbi
-https://img.shields.io/badge/Amazon_Web_Scraper-Python-ff9900?style=for-the-badge&logo=amazon
-https://img.shields.io/badge/HR_Analytics-Tableau-1e3765?style=for-the-badge&logo=tableau
-https://img.shields.io/badge/Sales_Dashboard-Power_BI-yellowgreen?style=for-the-badge&logo=microsoft
-https://img.shields.io/badge/Data_Warehouse-SQL-4479A1?style=for-the-badge&logo=postgresql
+[![Excel for Data Analytics](https://img.shields.io/badge/Portfolio-Visit-%23000000?style=for-the-badge)](https://abdelrhmanashraf103.github.io/MyPortfolio.github.io/)
+[![PowerBI_Data_Analytics](https://img.shields.io/badge/Portfolio-Visit-%23000000?style=for-the-badge)](https://abdelrhmanashraf103.github.io/MyPortfolio.github.io/)
+[![Python for Data Analytics](https://img.shields.io/badge/Portfolio-Visit-%23000000?style=for-the-badge)](https://abdelrhmanashraf103.github.io/MyPortfolio.github.io/)
+[![SQL for Data Analytics](https://img.shields.io/badge/Portfolio-Visit-%23000000?style=for-the-badge)](https://abdelrhmanashraf103.github.io/MyPortfolio.github.io/)
+[![SQL from Zero to Hero](https://img.shields.io/badge/Portfolio-Visit-%23000000?style=for-the-badge)](https://abdelrhmanashraf103.github.io/MyPortfolio.github.io/)
+[![Tableau for Data Analytics](https://img.shields.io/badge/Portfolio-Visit-%23000000?style=for-the-badge)](https://abdelrhmanashraf103.github.io/MyPortfolio.github.io/)
 
 </div>
 
