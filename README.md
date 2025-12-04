@@ -153,7 +153,7 @@ Data-Analysis-Mastering/
 
 ### Explore More Data Analysis Courses
 
-[![Excel for Data Analytics](https://img.shields.io/badge/Excel_For_Data_Analytics-Course-217346?style=for-the-badge&logo=microsoftexcel)]([https://abdelrhmanashraf103.github.io/MyPortfolio.github.io/](https://github.com/abdelrhmanashraf103/Excel-for-Data-Analytics/tree/master))
+[![Excel for Data Analytics](https://img.shields.io/badge/Excel_For_Data_Analytics-Course-217346?style=for-the-badge&logo=microsoftexcel)](https://github.com/abdelrhmanashraf103/Excel-for-Data-Analytics/tree/master)
 [![Power BI Data Analytics](https://img.shields.io/badge/Power_BI_Data_Analytics-Course-F2C811?style=for-the-badge&logo=powerbi)](https://abdelrhmanashraf103.github.io/MyPortfolio.github.io/)
 [![Python for Data Analytics](https://img.shields.io/badge/Python_For_Data_Analytics-Course-3776AB?style=for-the-badge&logo=python)](https://abdelrhmanashraf103.github.io/MyPortfolio.github.io/)
 [![SQL for Data Analytics](https://img.shields.io/badge/SQL_For_Data_Analytics-Course-4479A1?style=for-the-badge&logo=postgresql)](https://abdelrhmanashraf103.github.io/MyPortfolio.github.io/)
