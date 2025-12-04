@@ -147,16 +147,18 @@ Data-Analysis-Mastering/
 - **Skills**: Employee retention analysis, performance metrics
 - **Features**: Attrition analysis, department performance
 
-📊 Related Repositories
-<div align="center">
-### Explore Any Data Analysis Course
+## 📊 Related Repositories
 
-[![Excel for Data Analytics](https://img.shields.io/badge/Portfolio-Visit-%23000000?style=for-the-badge)](https://abdelrhmanashraf103.github.io/MyPortfolio.github.io/)
-[![PowerBI_Data_Analytics](https://img.shields.io/badge/Portfolio-Visit-%23000000?style=for-the-badge)](https://abdelrhmanashraf103.github.io/MyPortfolio.github.io/)
-[![Python for Data Analytics](https://img.shields.io/badge/Portfolio-Visit-%23000000?style=for-the-badge)](https://abdelrhmanashraf103.github.io/MyPortfolio.github.io/)
-[![SQL for Data Analytics](https://img.shields.io/badge/Portfolio-Visit-%23000000?style=for-the-badge)](https://abdelrhmanashraf103.github.io/MyPortfolio.github.io/)
-[![SQL from Zero to Hero](https://img.shields.io/badge/Portfolio-Visit-%23000000?style=for-the-badge)](https://abdelrhmanashraf103.github.io/MyPortfolio.github.io/)
-[![Tableau for Data Analytics](https://img.shields.io/badge/Portfolio-Visit-%23000000?style=for-the-badge)](https://abdelrhmanashraf103.github.io/MyPortfolio.github.io/)
+<div align="center">
+
+### Explore More Data Analysis Courses
+
+[![Excel for Data Analytics](https://img.shields.io/badge/Excel_For_Data_Analytics-Course-217346?style=for-the-badge&logo=microsoftexcel)](https://abdelrhmanashraf103.github.io/MyPortfolio.github.io/)
+[![Power BI Data Analytics](https://img.shields.io/badge/Power_BI_Data_Analytics-Course-F2C811?style=for-the-badge&logo=powerbi)](https://abdelrhmanashraf103.github.io/MyPortfolio.github.io/)
+[![Python for Data Analytics](https://img.shields.io/badge/Python_For_Data_Analytics-Course-3776AB?style=for-the-badge&logo=python)](https://abdelrhmanashraf103.github.io/MyPortfolio.github.io/)
+[![SQL for Data Analytics](https://img.shields.io/badge/SQL_For_Data_Analytics-Course-4479A1?style=for-the-badge&logo=postgresql)](https://abdelrhmanashraf103.github.io/MyPortfolio.github.io/)
+[![SQL from Zero to Hero](https://img.shields.io/badge/SQL_Zero_to_Hero-Course-336791?style=for-the-badge&logo=mysql)](https://abdelrhmanashraf103.github.io/MyPortfolio.github.io/)
+[![Tableau for Data Analytics](https://img.shields.io/badge/Tableau_For_Data_Analytics-Course-E97627?style=for-the-badge&logo=tableau)](https://abdelrhmanashraf103.github.io/MyPortfolio.github.io/)
 
 </div>
 
