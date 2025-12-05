@@ -155,10 +155,10 @@ Data-Analysis-Mastering/
 
 [![Excel for Data Analytics](https://img.shields.io/badge/Excel_For_Data_Analytics-Course-217346?style=for-the-badge&logo=microsoftexcel)](https://github.com/abdelrhmanashraf103/Excel-for-Data-Analytics/tree/master)
 [![Power BI Data Analytics](https://img.shields.io/badge/Power_BI_Data_Analytics-Course-F2C811?style=for-the-badge&logo=powerbi)](https://github.com/abdelrhmanashraf103/PowerBI_Data_Analytics/tree/master)
-[![Python for Data Analytics](https://img.shields.io/badge/Python_For_Data_Analytics-Course-3776AB?style=for-the-badge&logo=python)](https://abdelrhmanashraf103.github.io/MyPortfolio.github.io/)
-[![SQL for Data Analytics](https://img.shields.io/badge/SQL_For_Data_Analytics-Course-4479A1?style=for-the-badge&logo=postgresql)](https://abdelrhmanashraf103.github.io/MyPortfolio.github.io/)
-[![SQL from Zero to Hero](https://img.shields.io/badge/SQL_Zero_to_Hero-Course-336791?style=for-the-badge&logo=mysql)](https://abdelrhmanashraf103.github.io/MyPortfolio.github.io/)
-[![Tableau for Data Analytics](https://img.shields.io/badge/Tableau_For_Data_Analytics-Course-E97627?style=for-the-badge&logo=tableau)](https://abdelrhmanashraf103.github.io/MyPortfolio.github.io/)
+[![Python for Data Analytics](https://img.shields.io/badge/Python_For_Data_Analytics-Course-3776AB?style=for-the-badge&logo=python)](https://github.com/abdelrhmanashraf103/Python-for-Data-Analytics/tree/master)
+[![SQL for Data Analytics](https://img.shields.io/badge/SQL_For_Data_Analytics-Course-4479A1?style=for-the-badge&logo=postgresql)](https://github.com/abdelrhmanashraf103/SQL-for-Data-Analytics/tree/master)
+[![SQL from Zero to Hero](https://img.shields.io/badge/SQL_Zero_to_Hero-Course-336791?style=for-the-badge&logo=mysql)](https://github.com/abdelrhmanashraf103/SQL-from-Zero-to-Hero/tree/master)
+[![Tableau for Data Analytics](https://img.shields.io/badge/Tableau_For_Data_Analytics-Course-E97627?style=for-the-badge&logo=tableau)](https://github.com/abdelrhmanashraf103/Tableau-for-Data-Analytics/tree/master)
 
 </div>
 
