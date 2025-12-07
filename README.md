@@ -85,26 +85,8 @@ Data-Analysis-Mastering/
 │   │   ├── 02_Data_Definition_DDL
 │   │   └── 03_Data_Manipulation_DML
 │   ├── 📁 Intermediate Level/
-│   │   ├── 04_Filtering_Data
-│   │   ├── 05_JOINs
-│   │   └── 06_SETs
-|   |   └── 07_String_Functions
-|   |   └── 08_Number_Functions
-|   |   └── 09_Date_Time_Functions
-|   |   └── 10_Date_Time_Formats
-|   |   └── 11_NULL_Functions
-|   |   └── 12_Case_Statements
-|   |   └── 13_Aggregate_Functions
-|   |   └── 14_Window_Functions_Basics
-|   |   └── 15_Window_Aggregations
-|   |   └── 16_Window_Ranking
-|   |   └── 17_Window_Value_Functions
 │   ├── 📁 Advanced Level/
-│   │   ├── 18_Subqueries
-│   │   ├── 19_Common_Table_Expressions_CTE
 │   └── 📁 projects/
-│       ├── sql-datawarehouse-project/
-│       └── SQL_Data_Analystics_Project/
 │
 ├── 📂 02-Python for Data Analytics/
 │   ├── 📁 1_Basics/
